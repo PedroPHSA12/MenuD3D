@@ -1,0 +1,23 @@
+﻿  dllmain.cpp
+C:\Users\pedro\Desktop\Trainer\MenuD3D\MenuD3D\Draw.h(34,50): warning C4244: 'argumento': conversão de 'double' para 'int', possível perda de dados
+C:\Users\pedro\Desktop\Trainer\MenuD3D\MenuD3D\Draw.h(34,41): warning C4244: 'argumento': conversão de 'double' para 'int', possível perda de dados
+C:\Users\pedro\Desktop\Trainer\MenuD3D\MenuD3D\Draw.h(34,32): warning C4244: 'argumento': conversão de 'double' para 'int', possível perda de dados
+C:\Users\pedro\Desktop\Trainer\MenuD3D\MenuD3D\Draw.h(34,23): warning C4244: 'argumento': conversão de 'double' para 'int', possível perda de dados
+C:\Users\pedro\Desktop\Trainer\MenuD3D\MenuD3D\Draw.h(46,15): warning C4838: a conversão de 'int' em 'float' requer uma conversão de restrição
+C:\Users\pedro\Desktop\Trainer\MenuD3D\MenuD3D\Draw.h(46,15): warning C4244: 'inicializando': conversão de 'int' para 'float', possível perda de dados
+C:\Users\pedro\Desktop\Trainer\MenuD3D\MenuD3D\Draw.h(46,20): warning C4838: a conversão de 'int' em 'float' requer uma conversão de restrição
+C:\Users\pedro\Desktop\Trainer\MenuD3D\MenuD3D\Draw.h(46,20): warning C4244: 'inicializando': conversão de 'int' para 'float', possível perda de dados
+C:\Users\pedro\Desktop\Trainer\MenuD3D\MenuD3D\Draw.h(46,46): warning C4838: a conversão de 'int' em 'float' requer uma conversão de restrição
+C:\Users\pedro\Desktop\Trainer\MenuD3D\MenuD3D\Draw.h(46,46): warning C4244: 'inicializando': conversão de 'int' para 'float', possível perda de dados
+C:\Users\pedro\Desktop\Trainer\MenuD3D\MenuD3D\Draw.h(46,49): warning C4838: a conversão de 'int' em 'float' requer uma conversão de restrição
+C:\Users\pedro\Desktop\Trainer\MenuD3D\MenuD3D\Draw.h(46,49): warning C4244: 'inicializando': conversão de 'int' para 'float', possível perda de dados
+C:\Users\pedro\Desktop\Trainer\MenuD3D\MenuD3D\Draw.h(46,137): warning C4305: 'inicializando': truncamento de 'double' para 'float'
+C:\Users\pedro\Desktop\Trainer\MenuD3D\MenuD3D\Draw.h(46,75): warning C4838: a conversão de 'int' em 'float' requer uma conversão de restrição
+C:\Users\pedro\Desktop\Trainer\MenuD3D\MenuD3D\Draw.h(46,75): warning C4244: 'inicializando': conversão de 'int' para 'float', possível perda de dados
+C:\Users\pedro\Desktop\Trainer\MenuD3D\MenuD3D\Draw.h(46,82): warning C4838: a conversão de 'int' em 'float' requer uma conversão de restrição
+C:\Users\pedro\Desktop\Trainer\MenuD3D\MenuD3D\Draw.h(46,82): warning C4244: 'inicializando': conversão de 'int' para 'float', possível perda de dados
+C:\Users\pedro\Desktop\Trainer\MenuD3D\MenuD3D\Draw.h(46,110): warning C4838: a conversão de 'int' em 'float' requer uma conversão de restrição
+C:\Users\pedro\Desktop\Trainer\MenuD3D\MenuD3D\Draw.h(46,110): warning C4244: 'inicializando': conversão de 'int' para 'float', possível perda de dados
+C:\Users\pedro\Desktop\Trainer\MenuD3D\MenuD3D\Draw.h(46,115): warning C4838: a conversão de 'int' em 'float' requer uma conversão de restrição
+C:\Users\pedro\Desktop\Trainer\MenuD3D\MenuD3D\Draw.h(46,115): warning C4244: 'inicializando': conversão de 'int' para 'float', possível perda de dados
+  MenuD3D.vcxproj -> C:\Users\pedro\Desktop\Trainer\MenuD3D\Debug\MenuD3D.dll
